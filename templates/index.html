@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Frequency Chart</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="chart">
+        {% for item in items %}
+            <div class="item" id="item-{{ loop.index0 }}">
+                <span class="label">{{ item.name }}</span>
+            </div>
+        {% endfor %}
+    </div>
+    <script id="data" type="application/json">{{ items|tojson }}</script>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

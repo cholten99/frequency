@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.chart {
+    display: flex;
+    align-items: flex-start;
+    margin: 20px;
+}
+
+.item {
+    background-color: white;
+    color: grey;
+    margin: 10px;
+    padding: 20px;
+    font-size: 80px;  /* Increased font size */
+    transition: color 1s;  /* Only color transition */
+    border: 1px solid grey;  /* Added border for better visibility */
+}
+
+.label {
+    display: block;
+}

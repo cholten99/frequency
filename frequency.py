@@ -1,19 +1,25 @@
 from flask import Flask, render_template
-import csv
+import os
 
 app = Flask(__name__)
 
-def read_config(filename):
+def read_config(file_path):
     items = []
-    with open(filename, 'r') as file:
-        reader = csv.reader(file)
-        for row in reader:
-            items.append({'name': row[0], 'frequency': int(row[1])})
+    with open(file_path, 'r') as file:
+        for line in file:
+            name, frequency, text, link = line.strip().split(',')
+            items.append({
+                "name": name,
+                "frequency": int(frequency),
+                "text": text,
+                "link": link
+            })
     return items
 
 @app.route('/')
 def index():
-    items = read_config('config.txt')
+    config_file_path = os.path.join(os.path.dirname(__file__), 'config.txt')
+    items = read_config(config_file_path)
     return render_template('index.html', items=items)
 
 if __name__ == '__main__':

@@ -1,7 +1,25 @@
-item1,31536000,GOV.UK website,https://www.gov.uk/guidance/starter-checklist-for-paye
-item2,10512000,Bob's website,https://bob.com/bob
-item3,6311520,Open AI,https://openai.com
-McWibble,31536000,YouTube,https://youtube.com/fred
-P'Tang,3153600,Bob's website,https://allthethings.com
-Bobbins3,63072000,McWeavel,https://thingsaregood.com
-JohnIsStrange,31536000,Johns website,https://afcwimnledon.com
+Passports,7000000,UK Parliament,https://publications.parliament.uk/pa/cm5803/cmselect/cmpubacc/738/report.html
+Driving licences,550144,Driving Instructors Association,https://www.driving.org/record-high-uk-driving-licence-holders-soar/
+Self assessments,11500000,GOV.UK,https://www.gov.uk/government/news/a-record-115-million-tax-returns-filed-by-the-deadline
+Corporate tax,1350000,GOV.UK,https://www.gov.uk/government/statistics/corporation-tax-statistics-2023/corporation-tax-statistics-commentary-2023
+Work visas,337240,GOV.UK,https://www.gov.uk/government/statistics/immigration-system-statistics-year-ending-december-2023/summary-of-latest-statistics
+Alcohol licences,408550,GOV.UK,https://www.gov.uk/government/statistics/alcohol-and-late-night-refreshment-licensing-england-and-wales-31-march-2022/alcohol-and-late-night-refreshment-licensing-england-and-wales-year-ending-31-march-2022
+GP appointments,161400000,The BMA,https://www.bma.org.uk/advice-and-support/nhs-delivery-and-workforce/pressures/pressures-in-general-practice-data-analysis
+Criminal court cases,1140000,UK Parliament,https://researchbriefings.files.parliament.uk/documents/CBP-8372/CBP-8372.pdf
+Civil court cases,1580000,UK Parliament,https://researchbriefings.files.parliament.uk/documents/CBP-8372/CBP-8372.pdf
+Tribunals,305000,UK Parliament,https://researchbriefings.files.parliament.uk/documents/CBP-8372/CBP-8372.pdf
+UC claims,6400000,GOV.UK,https://www.gov.uk/government/statistics/universal-credit-statistics-29-april-2013-to-11-january-2024/universal-credit-statistics-29-april-2013-to-11-january-2024
+PIP claims,3300000,GOV.UK,https://www.gov.uk/government/statistics/personal-independence-payment-statistics-to-january-2024/personal-independence-payment-official-statistics-to-january-2024
+State pensions,12700000,GOV.UK,https://www.gov.uk/government/statistics/dwp-benefits-statistics-february-2024/dwp-benefits-statistics-february-2024
+999 calls,35000000,Wikipedia,https://en.wikipedia.org/wiki/999_(emergency_telephone_number)
+Fishing licences,903216,GOV.UK,https://www.gov.uk/government/publications/fisheries-annual-report-2022-to-2023-how-we-spend-fishing-licence-income/fisheries-annual-report-2022-to-2023-how-we-spend-fishing-licence-income
+Government grants,144964,GOV.UK,https://www.gov.uk/government/statistics/government-grants-statistics-2022-to-2023/grants-statistics-bulletin-2022-to-2023
+Planning permissions,384000,GOV.UK,https://www.gov.uk/government/statistics/planning-applications-in-england-january-to-march-2023/planning-applications-in-england-january-to-march-2023-statistical-release
+Births,605479 ,The ONS,https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/bulletins/birthsummarytablesenglandandwales/2022
+Deaths,577160,The ONS,https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/deathregistrationsummarystatisticsenglandandwales/2022
+Marriages,219850,The ONS,https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/marriagecohabitationandcivilpartnerships/bulletins/marriagesinenglandandwalesprovisional/2020
+Lost passports,400000,GOV.UK,https://www.gov.uk/government/news/report-your-lost-or-stolen-passport
+GCSEs,667340,GOV.UK,https://www.gov.uk/government/publications/infographic-gcse-results-2024/infographics-for-gcse-results-2024-accessible
+A-Levels,279700,GOV.UK,https://www.gov.uk/government/publications/infographic-a-level-results-2023/infographics-for-a-level-results-2023-accessible
+University applications,316850,UCAS,https://www.ucas.com/corporate/news-and-key-documents/news/2024-sees-more-18-year-olds-apply-higher-education
+New army recruits,11300,UK Defence Journal,https://ukdefencejournal.org.uk/british-army-falls-below-73000-personnel/
